@@ -1,2 +1,2 @@
 # lukecoching.github.io
-CIS 330 GitHub Stuff
+CIS 330 GitHub & AWS Event
